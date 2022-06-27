@@ -5,4 +5,5 @@
     <string name="sausage">КОЛБАСКИ</string>
     <string name="jerky">ДЖЕРКИ</string>
     <string name="you_need">РЕЦЕПТ</string>
+    <string name="_0_0">Введите вес мяса в формате 0.0</string>
 </resources>

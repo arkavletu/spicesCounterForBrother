@@ -6,5 +6,6 @@
     <string name="buttonj" translatable="false">buttonJ</string>
     <string name="sausage">SAUSAGE</string>
     <string name="you_need">YOU NEED</string>
+    <string name="_0_0">Введите вес мяса в формате 0.0</string>
 
 </resources>

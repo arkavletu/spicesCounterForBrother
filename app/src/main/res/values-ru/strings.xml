@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Рассчет специй</string>
+    <string name="your_choice">Я ГОТОВЛЮ</string>
+    <string name="sausage">КОЛБАСКИ</string>
+    <string name="jerky">ДЖЕРКИ</string>
+    <string name="you_need">РЕЦЕПТ</string>
+</resources>

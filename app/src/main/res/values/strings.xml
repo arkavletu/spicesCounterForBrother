@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spice-counter</string>
+    <string name="your_choice">YOUR CHOICE</string>
+    <string name="buttons" translatable="false">buttonS</string>
+    <string name="jerky">JERKY</string>
+    <string name="buttonj" translatable="false">buttonJ</string>
+    <string name="sausage">SAUSAGE</string>
+    <string name="you_need">YOU NEED</string>
+
+</resources>

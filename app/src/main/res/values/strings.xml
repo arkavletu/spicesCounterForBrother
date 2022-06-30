@@ -7,5 +7,11 @@
     <string name="sausage">SAUSAGE</string>
     <string name="you_need">YOU NEED</string>
     <string name="_0_0">Введите вес мяса в формате 0.0</string>
+    <string name="title_activity_recipe" translatable="false">RecipeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
 
 </resources>

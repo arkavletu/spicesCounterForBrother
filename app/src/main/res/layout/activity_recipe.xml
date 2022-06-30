@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".JerkyActivity">
+    tools:context=".RecipeActivity">
 
 
     <TextView
@@ -27,27 +27,5 @@
         app:layout_constraintStart_toStartOf="@id/textView"
         app:layout_constraintTop_toBottomOf="@id/textView"
         app:layout_constraintEnd_toEndOf="@id/textView"/>
-    <androidx.appcompat.widget.AppCompatTextView
-        android:id="@+id/ammount"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        app:layout_constraintTop_toBottomOf="@id/spices"
-        android:layout_marginTop="16dp"
-        app:layout_constraintStart_toStartOf="@id/spices"
-        app:layout_constraintEnd_toEndOf="@id/spices"
-        />
 
-    <EditText
-        android:id="@+id/editTextNumberDecimal"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"
-        android:hint="@string/_0_0"
-        android:inputType="numberDecimal"
-        android:imeOptions="actionDone"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="@id/ammount"
-        app:layout_constraintEnd_toEndOf="@id/ammount"
-        app:layout_constraintTop_toBottomOf="@id/textView" />
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -7,6 +7,7 @@ import projekt.pet.databinding.ActivityMainBinding
 import android.os.Bundle
 import androidx.activity.viewModels
 
+
 class MainActivity : AppCompatActivity() {
     val viewModel by viewModels<RecipeViewModel>()
 

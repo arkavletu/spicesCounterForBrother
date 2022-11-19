@@ -1,9 +1,9 @@
 package projekt.pet
 
-data class Jerky(val name: String = "Jerky"):AbstractRecipe() {
-    val spices = "spices for jerky"
+data class Jerky (
+    var id:Long,
+    var isFavorite: Boolean,
+    val spices: String = "spices for jerky"
 
-    override fun toString(): String {
-        return spices
-    }
-}
+
+)
